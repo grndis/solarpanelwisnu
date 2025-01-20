@@ -4,9 +4,9 @@
 # test: ../dataset/test/images
 
 # Google colab path
-train: /content/solarpanelwisnu/dataset/train/images
-val: /content/solarpanelwisnu/dataset/valid/images
-test: /content/solarpanelwisnu/dataset/test/images
+train: /content/drive/MyDrive/yolotrain/solarpanelwisnu/dataset/train/images
+val: /content/drive/MyDrive/yolotrain/solarpanelwisnu/dataset/valid/images
+test: /content/drive/MyDrive/yolotrain/solarpanelwisnu/dataset/test/images
 
 nc: 1
 names: ["Crack"]
