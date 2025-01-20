@@ -3,6 +3,7 @@
 # val: ../dataset/valid/images
 # test: ../dataset/test/images
 
+# Google colab path
 train: /content/solarpanelwisnu/dataset/train/images
 val: /content/solarpanelwisnu/dataset/valid/images
 test: /content/solarpanelwisnu/dataset/test/images
