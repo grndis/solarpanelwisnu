@@ -1,6 +1,11 @@
-train: ../dataset/train/images
-val: ../dataset/valid/images
-test: ../dataset/test/images
+# Relative path
+# train: ../dataset/train/images
+# val: ../dataset/valid/images
+# test: ../dataset/test/images
+
+train: /content/solarpanelwisnu/dataset/train/images
+val: /content/solarpanelwisnu/dataset/valid/images
+test: /content/solarpanelwisnu/dataset/test/images
 
 nc: 1
 names: ["Crack"]
